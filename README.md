@@ -1,4 +1,9 @@
 # FAMSNet
+## 📦 Installation
+
+This project is built upon MMSegmentation. Please follow the official installation guide here:
+
+👉 [https://mmsegmentation.readthedocs.io/en/latest/get_started.html](https://github.com/open-mmlab/mmsegmentation/blob/main/docs/en/get_started.md#installation)
 <p align="center">
   <img src="data/image/001.png" width="220" alt="Image 1"/>
   <img src="data/image/017.png" width="220" alt="Image 2"/>
