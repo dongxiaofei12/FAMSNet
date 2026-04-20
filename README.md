@@ -25,4 +25,4 @@ This project is built upon MMSegmentation. Please follow the official installati
   <em>Ground Truth Labels</em>
 </p>
 Data Download
-Test Set: 👉 Download Test Set (Zenodo)
+Test Set: 👉 Download Test Set [(Zenodo)](https://zenodo.org/records/19659960?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImFiODU0ODUwLWJmZGYtNDI4Mi1iNDNiLTExZGY2MWM0ZWJkZSIsImRhdGEiOnt9LCJyYW5kb20iOiI2ZDE1OTg3MmExYzMyZmMyZThiNTAyMDAxZWU4MmZmOCJ9.uKJps_2r1vm5SYapYepAPtBO0_PedTx9XFtCHrsZP1gCc1r_JEUFawxaeXRJfoqXdONgkqZEjCinx64aQvTb0w)
