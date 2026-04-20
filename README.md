@@ -24,3 +24,5 @@ This project is built upon MMSegmentation. Please follow the official installati
 <p align="center">
   <em>Ground Truth Labels</em>
 </p>
+Data Download
+Test Set: 👉 Download Test Set (Zenodo)
